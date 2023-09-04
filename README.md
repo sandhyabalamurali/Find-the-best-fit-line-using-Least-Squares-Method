@@ -45,7 +45,6 @@ y_mean=m*3+b
 ```
 
 ## Output:
-![best fit line](sam.png)
 
 ![ex 1](https://github.com/sandhyabalamurali/Find-the-best-fit-line-using-Least-Squares-Method/assets/115525118/172c574d-0a76-45cc-8547-9d24cefdcc74)
 
